@@ -1,0 +1,3 @@
+**Creating a user
+to add a user, they must first be added to the database with a null password. The first
+time attempt to login, the program will prompt them for a password
